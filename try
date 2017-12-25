@@ -1,0 +1,17 @@
+<html>
+<head>
+<Title> latihan HTML </title>
+</head>
+<body>
+ini halaman latihan html
+<h1 align="center"> ini berisi koop website </h1>
+<h2 align="center"> ini berisi koop website </h2>
+
+Menuju ke halaman <a href="latihan5b.html"> tentang inspirasi </a>
+
+
+<p> Menuju ke halaman <a href="https://liannurma.wordpress.com/2017/10/15/seperti-membaca/#more-526"> Tulisan Singkat 'Seperti Membaca' </a> </p>
+
+</body>
+
+</html>
